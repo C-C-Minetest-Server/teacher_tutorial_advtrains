@@ -1,0 +1,15 @@
+# textdomain: teacher_tutorial_advtrains
+
+##[ init.lua ]##
+Under no circumstances should you stay or walk on train tracks. Get onto a train, let it bring you to your destination, sit back, and relax.=
+Under no circumstances should you stay or walk on train tracks. Getting hit by a running train is fatal! Get onto a train, let it bring you to your destination, sit back, and relax.=
+About Trains...=
+Trains are vehicles automatically running on their track. They connect distinct locations, providing convenient access to faraway areas.=
+Trains show information to players by having an external display of the line number, and texts shown on the HUD upon hovering over the train.=
+Trains often come with several wagons; each wagon can hold up a few passengers.=
+Only trains with opened doors allow players to go on board. To board a train, walk inside a wagon with opened doors.=
+To leave a train, wait for the door to open, then try to walk inside the train. You will be teleported out of the train, and onto the platform, if any.=
+Alternatively, right-click (tap on mobile) the train to board or exit the train.=
+Inside the train, texts may be displayed at the bottom showing the next station name. Get ready to leave the train once your destination shows up.=
+Once the train is at a certain station, its name is displayed similarly.=
+For the same reasons, you should never attempt to get off the train mid-journey. If you are in an emergency, hold down sneak (shift on computers) when you right-click.=
