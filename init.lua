@@ -25,8 +25,13 @@ teacher.register_turorial("teacher_tutorial_advtrains:about_trains", {
     triggers = {
         {
             name = "approach_node",
-            nodenames = { "group:advtrains_track", "group:platform" },
+            nodenames = "group:platform",
         },
+        {
+            name = "approach_node",
+            nodenames = "group:advtrains_track",
+            radius = 5,
+        }
     },
 
     {
