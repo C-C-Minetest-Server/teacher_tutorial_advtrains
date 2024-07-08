@@ -22,6 +22,7 @@ end
 teacher.register_turorial("teacher_tutorial_advtrains:about_trains", {
     title = S("About Trains..."),
     show_on_unlock = true,
+    show_disallow_close = true,
     triggers = {
         {
             name = "approach_node",
