@@ -36,7 +36,7 @@ teacher.register_turorial("teacher_tutorial_advtrains:about_trains", {
     },
 
     {
-        texture = "teacher_tutorial_advtrains_teacher_1.png",
+        texture = "teacher_tutorial_advtrains_teacher_1.jpg",
         text = S("Trains are vehicles automatically running on their track. " ..
                 "They connect distinct locations, providing convenient access to faraway areas.") .. "\n\n" ..
             S("Trains show information to players by having an external display of the line number, " ..
@@ -44,7 +44,7 @@ teacher.register_turorial("teacher_tutorial_advtrains:about_trains", {
             S("Trains often come with several wagons; each wagon can hold up a few passengers."),
     },
     {
-        texture = "teacher_tutorial_advtrains_teacher_2.png",
+        texture = "teacher_tutorial_advtrains_teacher_2.jpg",
         text = S("Only trains with opened doors allow players to go on board. " ..
                 "To board a train, walk inside a wagon with opened doors.") .. "\n\n" ..
             S("To leave a train, wait for the door to open, then try to walk inside the train. " ..
@@ -52,13 +52,13 @@ teacher.register_turorial("teacher_tutorial_advtrains:about_trains", {
             S("Alternatively, right-click (tap on mobile) the train to board or exit the train."),
     },
     {
-        texture = "teacher_tutorial_advtrains_teacher_3.png",
+        texture = "teacher_tutorial_advtrains_teacher_3.jpg",
         text = S("Inside the train, texts may be displayed at the bottom showing the next station name. " ..
                 "Get ready to leave the train once your destination shows up.") .. "\n\n" ..
             S("Once the train is at a certain station, its name is displayed similarly."),
     },
     {
-        texture = "teacher_tutorial_advtrains_teacher_4.png",
+        texture = "teacher_tutorial_advtrains_teacher_4.jpg",
         text = overrun_msg .. "\n\n" ..
             S("For the same reasons, you should never attempt to get off the train mid-journey. " ..
                 "If you are in an emergency, hold down sneak (shift on computers) when you right-click."),
